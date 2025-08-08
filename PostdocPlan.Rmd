@@ -1,5 +1,5 @@
 ---
-title: "Postdoctoral Mentoring Plan"
+title: "Synergistic Activities"
 date: "\\vspace{-3em}"
 output: 
   pdf_document:
